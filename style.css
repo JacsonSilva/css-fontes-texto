@@ -52,6 +52,7 @@ h2{
 
 h3{
     font-size: 16px;
+    text-align: left;
 }
 
 p, a , button{
@@ -73,12 +74,25 @@ section > article{
 }
 
 
-.destaque {
+.destaque h3{
     text-align: left;
+    color: red;
     
 }
 .legenda{
     text-align: center;
 }
 
+footer{
+    background-color: black;
+    text-align: center;
+    color: #BFBFBF;
+    margin-bottom: auto;
+    height: 45px;
+   
+}
+
+article{
+    text-align: center;
+}
 
