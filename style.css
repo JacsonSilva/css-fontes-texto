@@ -2,4 +2,83 @@
 @import url('https://fonts.googleapis.com/css2? family= PT+Sans & display=swap');
 
 
+nav {
+    background-color: #000000; 
+    padding: 20px;
+    margin: 05px 0px;
+    text-align: right;
+}
+
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-top: 5px;
+    margin: 0px 10px;
+    
+}
+
+header {
+    font-family: Open Sans, sans-serif;
+    width: 80%;
+    padding: 5% 10%;
+    background-color: #BFBFBF;
+    
+
+}
+aside {
+    width: 20%;
+    margin: 5%;
+    float: right;
+    margin-top: 2%;
+}
+
+aside h3{
+    text-decoration: none;
+   
+}
+
+p, a, button{
+    font-family: PT sans-serif;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 16px;
+}
+
+p, a , button{
+    font-size: 16px;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+aside img{
+    border-radius: 25px;
+    
+}
+
+section > article{
+    width: 60%;
+    margin: 0% 20%;
+}
+
+
+.destaque {
+    text-align: left;
+    
+}
+.legenda{
+    text-align: center;
+}
+
 
